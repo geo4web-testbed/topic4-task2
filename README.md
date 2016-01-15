@@ -17,7 +17,8 @@ http://data.linkeddatafactory.nl/bekendmakingenspatial/
 - Discuss approaches for establishing, maintaining, representing links in such a set-up with obstacles and/or benefits from both the point of view of providers (of the spatial as well as the non-spatial data) and users.
 - The different approaches should be documented with worked examples and may require extensions to the ‘crawlifier’ proxy from task 1.
 - Investigate what is required to make linking spatial data usable and programmable for web-developers and non-expert users.
-- Identify requirements so that linked properties are retained after user downloads the data (include provenance information, link to metadata, covered by the metadata requirement from above).
+- Identify requirements so that linked properties are retained after user downloads the data (include provenance information, link to metadata, covered by the metadata requirement from above)
+
 *Deliverables*
 - Report
 - Documentation of findings with worked examples
