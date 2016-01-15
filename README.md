@@ -3,6 +3,10 @@ Creation of Linked Data version of administrative public dataset
 
 Source data taken from: https://zoek.officielebekendmakingen.nl/
 
+Linked Data version available at: 
+http://data.linkeddatafactory.nl/bekendmakingen/
+http://data.linkeddatafactory.nl/bekendmakingenspatial/
+
 Requirements
 ▪ Implement and release a Linked Data version of a popular/basic registry.
 ▪ Establish links between spatial objects (from BAG and/or the Farmland data in task 1) and non-spatial data from the registry.
@@ -14,4 +18,4 @@ Deliverables
 ▪ Report
 o Documentation of findings with worked examples
 o Recommendations for establishing, maintaining, representing links
-▪ Link to
+▪ Link to the Linked Data version of the popular/basic registry, with links to the spatial data from task 1
