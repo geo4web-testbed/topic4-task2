@@ -1,4 +1,4 @@
-# topic4-task2
+# Topic4 Task2
 Creation of Linked Data version of administrative public dataset
 
 Source data taken from: https://zoek.officielebekendmakingen.nl/
