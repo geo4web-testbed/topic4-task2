@@ -3,13 +3,7 @@ Creation of Linked Data version of administrative public dataset
 
 Source data taken from: https://zoek.officielebekendmakingen.nl/
 
-Linked Data version available at: 
 
-http://data.linkeddatafactory.nl/bekendmakingen/ 
-
-and 
-
-http://data.linkeddatafactory.nl/bekendmakingenspatial/
 
 *Requirements*
 - Implement and release a Linked Data version of a popular/basic registry.
