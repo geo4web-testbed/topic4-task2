@@ -1,0 +1,3579 @@
+# baseURI: http://voorbeeld.nl/bekendmakingen/
+# prefix: vb
+
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix vb: <http://voorbeeld.nl/bekendmakingen/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://voorbeeld.nl/bekendmakingen/10>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/10Valkenswaard> ;
+  schema:description "Mededelingen - Elektronisch indienen bezwaarschriften en zienswijzen"@nl ;
+  schema:genre "mededelingen"@nl ;
+  schema:headline "Elektronisch indienen bezwaarschriften en zienswijzen"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/elektronisch-indienen-bezwaarschriften-en-zienswijzen_51571.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1000>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1000Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Strodekkerwei thv 2"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Strodekkerwei thv 2"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/strodekkerwei-thv-2_50953.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/10005551SR>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551SR" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1000Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/10005551SR> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1010>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1010Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Tinnegieterwei thv 19"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Tinnegieterwei thv 19"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/tinnegieterwei-thv-19_50954.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/10105551SL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551SL" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1010Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/10105551SL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1020>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1020Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Lariksbeemd plantsoen naast nr. 11"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Lariksbeemd plantsoen naast nr. 11"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/lariksbeemd-plantsoen-naast-nr-11_50962.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/10205551HC>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551HC" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1020Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/10205551HC> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1030>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1030Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Koolzaadbeemd, plantsoen thv nr. 10"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Koolzaadbeemd, plantsoen thv nr. 10"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/koolzaadbeemd-plantsoen-thv-nr-10_50965.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/10305551HD>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551HD" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1030Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/10305551HD> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1040>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1040Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Victordal, plantsoen thv nr. 35"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Victordal, plantsoen thv nr. 35"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/victordal-plantsoen-thv-nr-35_50968.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/10405551CP>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551CP" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1040Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/10405551CP> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1050>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1050Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Hoefsmidwei, achterzijde nr. 8"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Hoefsmidwei, achterzijde nr. 8"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/hoefsmidwei-achterzijde-nr-8_50971.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/10505551PM>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551PM" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1050Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/10505551PM> ;
+.
+<http://voorbeeld.nl/bekendmakingen/105551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/105552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/105553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/105554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/105555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/105556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1060>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1060Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Cornelisdal 12"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Cornelisdal 12"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/cornelisdal-12_50972.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/10605551EB>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551EB" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1060Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/10605551EB> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1070>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1070Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Maastrichterweg 183"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Maastrichterweg 183"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/maastrichterweg-183_50974.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/10705556VB>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556VB" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1070Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/10705556VB> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1080>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1080Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Buntgrasbeemd 1"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Buntgrasbeemd 1"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/buntgrasbeemd-1_50960.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/10805551HA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551HA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1080Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/10805551HA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1090>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1090Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Klein Schaft 5"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Klein Schaft 5"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/klein-schaft-5_50957.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/10905556VJ>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556VJ" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1090Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/10905556VJ> ;
+.
+<http://voorbeeld.nl/bekendmakingen/10Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/105551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/105552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/105553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/105554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/105555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/105556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/110>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/110Noord-Brabant> ;
+  schema:description "KENNISGEVING NATUURBESCHERMINGSWET 1998, V.O.F. W.J.A. Intven, Achterste Brug 39 te Valkenswaard"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "KENNISGEVING NATUURBESCHERMINGSWET 1998, V.O.F. W.J.A. Intven, Achterste Brug 39 te Valkenswaard"@nl ;
+  schema:text "...vergunning. Het project betreft het in werking hebben van een melkrundveehouderij, uitgevoerd op Achterste Brug 39, 5556 WB te <b>Valkenswaard</b>. Het ontwerpbesluit en de bijbehorende stukken zijn vanaf 23 december 2015 tot en met 2 februari 2016 in te zien bij de..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635863801252967230.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1100>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1100Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Brouwerijplein 87"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Brouwerijplein 87"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/brouwerijplein-87_50977.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11005551AE>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551AE" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1100Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11005551AE> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1105556WB>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556WB" ;
+  schema:streetAddress "39.0" ;
+.
+<http://voorbeeld.nl/bekendmakingen/110Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1105556WB> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1110>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1110Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Van der Clusenstraat 8"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Van der Clusenstraat 8"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/van-der-clusenstraat-8_50978.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11105553EL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553EL" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1110Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11105553EL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1120>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1120Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Columbusstraat 31"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Columbusstraat 31"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/columbusstraat-31_50980.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11205554PB>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554PB" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1120Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11205554PB> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1130>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1130Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Hoeverdijk 64"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Hoeverdijk 64"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/hoeverdijk-64_50983.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11305556VN>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556VN" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1130Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11305556VN> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1140>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1140Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Dorpsstraat ong. sectie E nr 55"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Dorpsstraat ong. sectie E nr 55"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/dorpsstraat-ong-sectie-e-nr-55_50986.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11405556VL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556VL" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1140Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11405556VL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1150>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1150Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Sleedoornlaan 1"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Sleedoornlaan 1"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/sleedoornlaan-1_50989.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11505552RA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552RA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1150Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11505552RA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1160>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1160Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Klein Schaft 5"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Klein Schaft 5"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/klein-schaft-5_50992.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11605556VJ>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556VJ" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1160Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11605556VJ> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1170>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1170Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Kromstraat 33"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Kromstraat 33"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/kromstraat-33_50995.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11705554NE>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554NE" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1170Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11705554NE> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1180>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1180Valkenswaard> ;
+  schema:description "Evenementenvergunning verleend - IJsbaan 6 december tot 3 januari"@nl ;
+  schema:genre "evenementenvergunning"@nl ;
+  schema:headline "IJsbaan 6 december tot 3 januari"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/ijsbaan-6-december-tot-3-januari_50998.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11805551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11805552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11805553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11805554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11805555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11805556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1180Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11805551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11805552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11805553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11805554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11805555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11805556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1190>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1190Valkenswaard> ;
+  schema:description "Evenementenvergunning verleend - Carnavalskermis 6 tot 9 februari 2016"@nl ;
+  schema:genre "evenementenvergunning"@nl ;
+  schema:headline "Carnavalskermis 6 tot 9 februari 2016"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/carnavalskermis-6-tot-9-februari-2016_51001.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11905551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11905552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11905553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11905554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11905555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/11905556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1190Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11905551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11905552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11905553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11905554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11905555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/11905556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/120>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/120Noord-Brabant> ;
+  schema:description "KENNISGEVING NATUURBESCHERMINGSWET 1998, M. Theunissen, Venbergseweg 42, 5551 TJ te Valkenswaard"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "KENNISGEVING NATUURBESCHERMINGSWET 1998, M. Theunissen, Venbergseweg 42, 5551 TJ te Valkenswaard"@nl ;
+  schema:text "...betreft het in werking hebben van een melkrundvee- en varkenshouderij, uitgevoerd op Venbergseweg 42 te <b>Valkenswaard</b>, in de gemeente <b>Valkenswaard</b>. Het ontwerpbesluit en de bijbehorende stukken zijn vanaf 23 december 2015 tot en met 2 februari 2016..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635863860991522167.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1200>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1200Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Heidalen 12"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Heidalen 12"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/heidalen-12_50996.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/12005552LJ>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552LJ" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1200Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/12005552LJ> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1205551TJ>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5551TJ" ;
+  schema:streetAddress "42.0" ;
+.
+<http://voorbeeld.nl/bekendmakingen/120Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1205551TJ> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1250>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1250Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Leenderweg 6 en 8"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Leenderweg 6 en 8"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/leenderweg-6-en-8_50789.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/12505554CK>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554CK" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1250Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/12505554CK> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1260>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1260Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Stationskwartier 6 en 8"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Stationskwartier 6 en 8"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/stationskwartier-6-en-8_50789.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/12605554CK>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554CK" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1260Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/12605554CK> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1300>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1300Valkenswaard> ;
+  schema:description "Straatnaamgeving - Straatnaamgeving 25 november 2015"@nl ;
+  schema:genre "overig"@nl ;
+  schema:headline "Straatnaamgeving 25 november 2015"@nl ;
+  schema:text "...hebben burgemeester en wethouders van <b>Valkenswaard</b> op 10 november 2015 de volgende straatnamen...het gemeentehuis, de Hofnar 15 in <b>Valkenswaard</b>. Daarnaast liggen de straatnaambesluiten...openbare bibliotheek aan de Hofnar 12 in <b>Valkenswaard</b>, bij het Dorpshuis in Borkel en..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/straatnaamgeving-25-november-2015_50777.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13005551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13005552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13005553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13005554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13005555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13005556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1300Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13005551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13005552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13005553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13005554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13005555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13005556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1330>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1330Valkenswaard> ;
+  schema:description "Mededelingen - Benoeming Lid van de Gemeenteraad"@nl ;
+  schema:genre "mededelingen"@nl ;
+  schema:headline "Benoeming Lid van de Gemeenteraad"@nl ;
+  schema:text "...van de raad&nbsp;van de gemeente <b>Valkenswaard</b>, maakt ingevolge artikel W 7 van de...M.M. (Ruud) (m), wonende te <b>Valkenswaard</b>, bij besluit van vrijdag 6&nbsp...is tot lid van de gemeenteraad van <b>Valkenswaard</b>.&nbsp;Het betreft de benoeming..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/benoeming-lid-van-de-gemeenteraad_50776.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13305551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13305552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13305553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13305554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13305555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13305556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1330Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13305551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13305552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13305553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13305554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13305555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13305556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1340>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1340Valkenswaard> ;
+  schema:description "Straatnaamgeving - Straatnaamgeving"@nl ;
+  schema:genre "overig"@nl ;
+  schema:headline "Straatnaamgeving"@nl ;
+  schema:text "...hebben burgemeester en wethouders van <b>Valkenswaard</b> op 10 november 2015 de volgende straatnamen...het gemeentehuis, de Hofnar 15 in <b>Valkenswaard</b>. Daarnaast liggen de straatnaambesluiten...openbare bibliotheek aan de Hofnar 12 in <b>Valkenswaard</b>, bij het Dorpshuis in Borkel en..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/straatnaamgeving_50777.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13405551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13405552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13405553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13405554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13405555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13405556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1340Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13405551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13405552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13405553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13405554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13405555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13405556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1350>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1350Valkenswaard> ;
+  schema:description "Ingekomen meldingen Wet milieubeheer - Brouwerijplein 87"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Brouwerijplein 87"@nl ;
+  schema:text "Het college van burgemeester en wethouders van de gemeente <b>Valkenswaard</b> maakt bekend dat op grond van artikel 8.40 van de Wet milieubeheer de navolgende melding is ingediend. Nummer:&nbsp;MM..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/brouwerijplein-87_50780.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13505551AE>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551AE" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1350Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13505551AE> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1360>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1360Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Maastrichterweg BS01"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Maastrichterweg BS01"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/maastrichterweg-bs01_50783.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13605556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1360Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13605556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1370>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1370Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Berkenstraat 6"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Berkenstraat 6"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/berkenstraat-6_50785.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13705553EK>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553EK" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1370Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13705553EK> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1380>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1380Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Oude Hof 12"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Oude Hof 12"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/oude-hof-12_50786.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13805552LH>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552LH" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1380Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13805552LH> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1390>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1390Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Dragonder 46"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Dragonder 46"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/dragonder-46_50788.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/13905555XZ>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555XZ" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1390Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/13905555XZ> ;
+.
+<http://voorbeeld.nl/bekendmakingen/140>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/140Valkenswaard> ;
+  schema:description "Mededelingen - Herindelingsregeling"@nl ;
+  schema:genre "mededelingen"@nl ;
+  schema:headline "Herindelingsregeling"@nl ;
+  schema:text "...herindeling hebben de gemeenten Waalre en <b>Valkenswaard</b> de Herindelingsregeling vastgesteld...wijziging van de grens tussen de gemeenten <b>Valkenswaard</b> en Waalre, in het gebied nabij de...de gemeente Waalre naar de gemeente <b>Valkenswaard</b>. De gemeentegrens wordt hiermee logischer..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/herindelingsregeling_50927.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1400>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1400Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Dollarhof 39"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Dollarhof 39"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/dollarhof-39_50792.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14005551DA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551DA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1400Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14005551DA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1405551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1405552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1405553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1405554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1405555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1405556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/140Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1405551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1405552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1405553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1405554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1405555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1405556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1410>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1410Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Hoppenbrouwers 15"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Hoppenbrouwers 15"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/hoppenbrouwers-15_50794.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14105552SB>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552SB" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1410Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14105552SB> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1420>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1420Valkenswaard> ;
+  schema:description "Evenementenvergunning verleend - Brouwtrouw 2016"@nl ;
+  schema:genre "evenementenvergunning"@nl ;
+  schema:headline "Brouwtrouw 2016"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/brouwtrouw-2016_50822.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14205551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14205552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14205553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14205554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14205555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14205556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1420Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14205551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14205552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14205553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14205554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14205555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14205556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1430>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1430Valkenswaard> ;
+  schema:description "Evenementenvergunning verleend - Kwalleballen 2016"@nl ;
+  schema:genre "evenementenvergunning"@nl ;
+  schema:headline "Kwalleballen 2016"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/kwalleballen-2016_50825.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14305551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14305552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14305553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14305554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14305555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14305556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1430Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14305551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14305552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14305553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14305554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14305555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14305556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1440>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1440Valkenswaard> ;
+  schema:description "Evenementenvergunning verleend - Truckrun 2016"@nl ;
+  schema:genre "evenementenvergunning"@nl ;
+  schema:headline "Truckrun 2016"@nl ;
+  schema:text "Nummer: EVG 2015-0497 Datum verzonden:&nbsp;17-11-15 Omschrijving: Truckrun <b>Valkenswaard</b> 2016 op 17-09-2016 van 07.00 tot 24.00 uur"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/truckrun-2016_50827.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14405551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14405552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14405553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14405554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14405555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14405556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1440Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14405551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14405552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14405553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14405554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14405555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14405556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1450>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1450Valkenswaard> ;
+  schema:description "Meldingen asbestverwijdering - sloop - Gelukken 12"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Gelukken 12"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/gelukken-12_50828.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14505552LE>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552LE" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1450Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14505552LE> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1460>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1460Valkenswaard> ;
+  schema:description "Meldingen asbestverwijdering - sloop - Kleine Meerlaan 16"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Kleine Meerlaan 16"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/kleine-meerlaan-16_50831.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14605553CB>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553CB" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1460Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14605553CB> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1470>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1470Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Brugseheide 5 BS01"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Brugseheide 5 BS01"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/brugseheide-5-bs01_50800.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14705556XW>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556XW" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1470Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14705556XW> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1480>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1480Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Dorpsstraat 120"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Dorpsstraat 120"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/dorpsstraat-120_50801.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14805556VL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556VL" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1480Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14805556VL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1490>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1490Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Hoeverdijk 78-80"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Hoeverdijk 78-80"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/hoeverdijk-78-80_50804.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/14905556VN>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556VN" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1490Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/14905556VN> ;
+.
+<http://voorbeeld.nl/bekendmakingen/150>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/150Valkenswaard> ;
+  schema:description "Voornemen uitschrijving BRP - Voornemen uitschrijving BRP 23 december 2015"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Voornemen uitschrijving BRP 23 december 2015"@nl ;
+  schema:text "Burgemeester en wethouders van <b>Valkenswaard</b> zijn voornemens om de bijhouding van adresgegevens...het Klantcontactcentrum van de gemeente <b>Valkenswaard</b>. Dit team is te bereiken via: kcc@<b>valkenswaard</b>.nl of via (040) 2083444. Als wij geen..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/voornemen-uitschrijving-brp-23-december-2015_51446.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1500>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1500Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Ranonkelstraat 3"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Ranonkelstraat 3"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/ranonkelstraat-3_50812.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/15005551AM>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551AM" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1500Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/15005551AM> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1505551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1505552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1505553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1505554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1505555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1505556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/150Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1505551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1505552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1505553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1505554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1505555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1505556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1510>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1510Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Dragonder 48/50"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Dragonder 48/50"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/dragonder-4850_50818.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/15105555XZ>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555XZ" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1510Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/15105555XZ> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1520>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1520Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Kleine Meerlaan 16"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Kleine Meerlaan 16"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/kleine-meerlaan-16_50819.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/15205553CB>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553CB" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1520Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/15205553CB> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1530>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1530Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Dragonder 24E"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Dragonder 24E"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/dragonder-24e_50809.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/15305554GM>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554GM" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1530Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/15305554GM> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1540>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1540Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Maastrichterweg 150"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Maastrichterweg 150"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/maastrichterweg-150_50806.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/15405556VA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556VA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1540Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/15405556VA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1570>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1570Noord-Brabant> ;
+  schema:description "Melding ingevolge artikel 39b Wet bodembescherming Besluit Uniforme Saneringen, RoyalHaskoningDHV namens gemeente Valkenswaard, Valkenswaard"@nl ;
+  schema:genre "bodembeschermingsvergunning"@nl ;
+  schema:headline "Melding ingevolge artikel 39b Wet bodembescherming Besluit Uniforme Saneringen, RoyalHaskoningDHV namens gemeente Valkenswaard, Valkenswaard"@nl ;
+  schema:text "...Saneringen (BUS) van: Naam melder: RoyalHaskoningDHV namens gemeente <b>Valkenswaard</b> Locatie/adres: Wolbergstraat (nabij 3) fase 1 te <b>Valkenswaard</b> Gemeente: <b>Valkenswaard</b> Locatie_ID:NB085801681 De Omgevingsdienst Zuid-Oost Brabant is..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/bodembeschermingsvergunning/635832750622275312.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/15705556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1570Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/15705556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/160>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/160Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Reisvennestraat 28"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Reisvennestraat 28"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/reisvennestraat-28_51451.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1605554EV>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554EV" ;
+.
+<http://voorbeeld.nl/bekendmakingen/160Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1605554EV> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1620>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1620Noord-Brabant> ;
+  schema:description "Beschikking ingevolge artikel 13 en 14 Wbb, Econsultancy BV namens de gemeente Valkenswaard, Valkenswaard"@nl ;
+  schema:genre "bodembeschermingsvergunning"@nl ;
+  schema:headline "Beschikking ingevolge artikel 13 en 14 Wbb, Econsultancy BV namens de gemeente Valkenswaard, Valkenswaard"@nl ;
+  schema:text "...oktober 2015 van Econsultancy BV namens de gemeente <b>Valkenswaard</b> te <b>Valkenswaard</b> op grond van artikel 13 en 14 Besluit Uniforme...ontvangen. Econsultancy BV namens de gemeente <b>Valkenswaard</b> verzoekt Gedeputeerde Staten om in te stemmen..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/bodembeschermingsvergunning/635798868846317528.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/16205556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1620Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/16205556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1630>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1630Noord-Brabant> ;
+  schema:description "PUBLICATIE MELDING BESLUIT UNIFORME SANERINGEN"@nl ;
+  schema:genre "bodembeschermingsvergunning"@nl ;
+  schema:headline "PUBLICATIE MELDING BESLUIT UNIFORME SANERINGEN"@nl ;
+  schema:text "...Royal HaskoningDHV namens gemeente <b>Valkenswaard</b>, adres: Wolbergstraat (nabij 3...Royal HaskoningDHV namens gemeente <b>Valkenswaard</b> LOCATIE: Wolbergstraat (nabij 3) fase 1 te <b>Valkenswaard</b> GEMEENTE: <b>Valkenswaard</b> LOCATIE_ID..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/bodembeschermingsvergunning/635786819394467840.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/16305556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1630Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/16305556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1640>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1640Noord-Brabant> ;
+  schema:description "Beschikking ingevolge artikel 13 en 14 Wbb, Geofox-Lexmond B.V. namens de heer J.H.A.M. van Son, Valkenswaard"@nl ;
+  schema:genre "bodembeschermingsvergunning"@nl ;
+  schema:headline "Beschikking ingevolge artikel 13 en 14 Wbb, Geofox-Lexmond B.V. namens de heer J.H.A.M. van Son, Valkenswaard"@nl ;
+  schema:text "...Geofox-Lexmond B.V. namens de heer J.H.A.M. van Son te <b>Valkenswaard</b> op grond van artikel 13 en 14 Besluit Uniforme Saneringen...van de uitgevoerde sanering op de locatie Kromstraat 42 te <b>Valkenswaard</b>.In de beschikking is door Gedeputeerde Staten het volgende..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/bodembeschermingsvergunning/635774690502709253.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/16405554NH>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5554NH" ;
+  schema:streetAddress "42.0" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1640Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/16405554NH> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1650>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1650Noord-Brabant> ;
+  schema:description "Rectificatie Tweede wijzigingsverordening Verordening Ontgrondingen provincie Noord-Brabant 2008"@nl ;
+  schema:genre "verordeningen en reglementen"@nl ;
+  schema:headline "Rectificatie Tweede wijzigingsverordening Verordening Ontgrondingen provincie Noord-Brabant 2008"@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/verordeningen-en-reglementen/635774952786164503.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/16505216>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5216" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1650Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/16505216> ;
+.
+<http://voorbeeld.nl/bekendmakingen/1660>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/1660Noord-Brabant> ;
+  schema:description "OPHOKPLICHT duiven Noord-Brabant"@nl ;
+  schema:genre "ontheffing flora en faunawet"@nl ;
+  schema:headline "OPHOKPLICHT duiven Noord-Brabant"@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/ontheffing-flora-en-faunawet/635773941435958917.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/16605216>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5216" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1660Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/16605216> ;
+.
+<http://voorbeeld.nl/bekendmakingen/170>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/170Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Lage Heide nrs. 67 t/m 71 - 78 t/m 81 - 91 t/m 94"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Lage Heide nrs. 67 t/m 71 - 78 t/m 81 - 91 t/m 94"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/lage-heide-nrs-67-tm-71-78-tm-81-91-tm-94_51458.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1705551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/170Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1705551> ;
+.
+<http://voorbeeld.nl/bekendmakingen/180>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/180Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Weteringstraat 4"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Weteringstraat 4"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/weteringstraat-4_51461.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1805555KN>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555KN" ;
+.
+<http://voorbeeld.nl/bekendmakingen/180Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1805555KN> ;
+.
+<http://voorbeeld.nl/bekendmakingen/190>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/190Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Gelukken 34"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Gelukken 34"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/gelukken-34_51466.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/1905552LE>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552LE" ;
+.
+<http://voorbeeld.nl/bekendmakingen/190Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/1905552LE> ;
+.
+<http://voorbeeld.nl/bekendmakingen/200>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/200Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Eindhovenseweg 258"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Eindhovenseweg 258"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/eindhovenseweg-258_51467.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2005553AA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553AA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/200Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2005553AA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/210>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/210Valkenswaard> ;
+  schema:description "Welstandscommissie - Welstandscommissie 12 januari 2016"@nl ;
+  schema:genre "agenda en notulen"@nl ;
+  schema:headline "Welstandscommissie 12 januari 2016"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/welstandscommissie-12-januari-2016_51481.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2105551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2105552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2105553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2105554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2105555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2105556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/210Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2105551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2105552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2105553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2105554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2105555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2105556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2160>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2160Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, Van Son Nertsfarm BV Valkenswaard (C2133623)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, Van Son Nertsfarm BV Valkenswaard (C2133623)"@nl ;
+  schema:text "...aan Van Son Nertsfarm B.V., Maastrichterweg 114, 5556 VA te <b>Valkenswaard</b> voor de wijziging van een veehouderij, voor de locatie Maastrichterweg 114, 5556 VA te <b>Valkenswaard</b>. De vergunning is verleend voor onbepaalde tijd.Ten aanzien..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635575172084340096.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/21605556VA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556VA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2160Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/21605556VA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2180>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2180Noord-Brabant> ;
+  schema:description "Kennisgeving \"Verordening stikstof en Natura 2000 Noord-Brabant 2013\",  de heer H. Verhoeven, Maastrichterweg 150, Valkenswaard (C2161440)"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Kennisgeving \"Verordening stikstof en Natura 2000 Noord-Brabant 2013\",  de heer H. Verhoeven, Maastrichterweg 150, Valkenswaard (C2161440)"@nl ;
+  schema:text "...behoeve van de heer H. Verhoeven, Maastrichterweg 150, 5556 VA <b>Valkenswaard</b>, voor de bouw van een nieuwe varkensstal op de locatie aan de Maastrichterweg 150 te <b>Valkenswaard</b>. Het besluit en de bijbehorende stukken kunt u inzien vanaf bekendmaking..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/meldingen/635570179081603506.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/21805555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5555" ;
+  schema:streetAddress "6.0" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2180Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/21805555> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2190>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2190Noord-Brabant> ;
+  schema:description "Kennisgeving \"Verordening stikstof en Natura 2000 Noord-Brabant 2013\",  de heer H. Verhoeven, Maastrichterweg 150, Valkenswaard (C2161440)"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Kennisgeving \"Verordening stikstof en Natura 2000 Noord-Brabant 2013\",  de heer H. Verhoeven, Maastrichterweg 150, Valkenswaard (C2161440)"@nl ;
+  schema:text "...behoeve van de heer H. Verhoeven, Maastrichterweg 150, 5556 VA <b>Valkenswaard</b>, voor de bouw van een nieuwe varkensstal op de locatie aan de Maastrichterweg 150 te <b>Valkenswaard</b>. Het besluit en de bijbehorende stukken kunt u opvragen bij de Omgevingsdienst..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/meldingen/635570201957462991.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/21905555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5555" ;
+  schema:streetAddress "6.0" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2190Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/21905555> ;
+.
+<http://voorbeeld.nl/bekendmakingen/220>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/220Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Maastrichterweg 128 BS03"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Maastrichterweg 128 BS03"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/maastrichterweg-128-bs03_51484.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2205554GE>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554GE" ;
+.
+<http://voorbeeld.nl/bekendmakingen/220Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2205554GE> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2290>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2290Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, Van Son Nertsfarm BV Valkenswaard (C2133623)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, Van Son Nertsfarm BV Valkenswaard (C2133623)"@nl ;
+  schema:text "...voor een vergunning.Het project betreft de wijziging van een veehouderij, uitgevoerd op Maastrichterweg 114, 5556 VA te <b>Valkenswaard</b>.Het ontwerpbesluit en de bijbehorende stukken zijn vanaf 17 oktober 2014 tot en met 27 november 2014 in te zien bij de..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635491388847678443.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/22905556VA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556VA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2290Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/22905556VA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/230>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/230Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Oude Hof 12"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Oude Hof 12"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/oude-hof-12_51494.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2305552LH>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552LH" ;
+.
+<http://voorbeeld.nl/bekendmakingen/230Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2305552LH> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2330>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2330Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, Tassche Melkvee VOF Valkenswaard (C2066239)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, Tassche Melkvee VOF Valkenswaard (C2066239)"@nl ;
+  schema:text "...voor de uitbreiding/wijziging van een melkrundveestal, voor de locatie Abdijweg 30 te Borkel en Schaft in de gemeente <b>Valkenswaard</b>. De vergunning is verleend voor onbepaalde tijd.Ten aanzien van het ontwerpbesluit zijn geen zienswijzen naar voren gebracht..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635461124732230899.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/23305556VE>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556VE" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2330Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/23305556VE> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2390>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2390Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, VOF. R. Intven Valkenswaard (C2111370)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, VOF. R. Intven Valkenswaard (C2111370)"@nl ;
+  schema:text "...voor de wijziging van een veehouderij, uitgevoerd aan de Hoeverdijk 64, 5556 VN te Borkel en Schaft, in de gemeente <b>Valkenswaard</b>. De vergunning is verleend voor onbepaalde tijd. Ten aanzien van het ontwerpbesluit zijn geen zienswijzen naar voren gebracht..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635418782462706153.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/23905556VN>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556VN" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2390Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/23905556VN> ;
+.
+<http://voorbeeld.nl/bekendmakingen/240>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/240Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Binnenveld 16"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Binnenveld 16"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/binnenveld-16_51496.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2400>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2400Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, Stal Opperheide Valkenswaard (C2092009)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, Stal Opperheide Valkenswaard (C2092009)"@nl ;
+  schema:text "...Stal Opperheide, mevrouw M. van Mierlo, Kluizerdijk 115, 5556 XS te <b>Valkenswaard</b> voor de uitbreiding/wijziging van een veehouderij aan de Kluizerdijk 115 te <b>Valkenswaard</b>. De vergunning is verleend voor onbepaalde tijd.Ten aanzien van het..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635412756050071556.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/24005556XS>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556XS" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2400Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/24005556XS> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2405552LG>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552LG" ;
+.
+<http://voorbeeld.nl/bekendmakingen/240Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2405552LG> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2440>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2440Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, L.J.M. Kuijpers Valkenswaard (C2110375)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, L.J.M. Kuijpers Valkenswaard (C2110375)"@nl ;
+  schema:text "...M. Kuijpers, Bekenweg 10, 5556 XM te <b>Valkenswaard</b> voor de uitbreiding/wijziging van een varkenshouderij...voor de locatie Bekenweg 10, 5556 XM te <b>Valkenswaard</b> in de gemeente <b>Valkenswaard</b>. De vergunning is verleend voor onbepaalde..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635400620553600627.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/24405556XM>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556XM" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2440Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/24405556XM> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2450>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2450Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, Tassche Melkvee VOF Valkenswaard (C2066239)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, Tassche Melkvee VOF Valkenswaard (C2066239)"@nl ;
+  schema:text "...betreft de uitbreiding/wijziging van een melkrundveestal, uitgevoerd aan de Abdijweg 30 te Borkel en Schaft in de gemeente <b>Valkenswaard</b>.De ontwerpbeschikking en de bijbehorende stukken zijn vanaf 4 juli 2014 tot en met 14 augustus 2014 in te zien bij de Omgevingsdienst..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635400651154409243.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/24505556VE>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556VE" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2450Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/24505556VE> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2460>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2460Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, J.C.J. Willems Valkenswaard (C2101504)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, J.C.J. Willems Valkenswaard (C2101504)"@nl ;
+  schema:text "...J. Willems, Luikerweg 134, 5551 VA te <b>Valkenswaard</b> voor de uitbreiding/wijziging van een veehouderijbedrijf...voor de locatie Venbergseweg 29, 5551 TJ te <b>Valkenswaard</b>, in de gemeente <b>Valkenswaard</b>. De vergunning is verleend voor onbepaalde..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635400616720426343.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/24605551VA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5551VA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2460Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/24605551VA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/250>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/250Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Dorpsstraat 10"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Dorpsstraat 10"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/dorpsstraat-10_51497.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2505556VL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556VL" ;
+.
+<http://voorbeeld.nl/bekendmakingen/250Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2505556VL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2590>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2590Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, VOF. R. Intven Valkenswaard (C2111370)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, VOF. R. Intven Valkenswaard (C2111370)"@nl ;
+  schema:text "...betreft de wijziging van een veehouderij, uitgevoerd aan de Hoeverdijk 64, 5556 VN te Borkel en Schaft, in de gemeente <b>Valkenswaard</b>.De ontwerpbeschikking en de bijbehorende stukken zijn vanaf 23 mei 2014 tot en met 3 juli 2014 in te zien bij de Omgevingsdienst..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635364316110361035.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/25905556VN>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556VN" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2590Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/25905556VN> ;
+.
+<http://voorbeeld.nl/bekendmakingen/260>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/260Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Irislaan 34"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Irislaan 34"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/irislaan-34_51488.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2600>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2600Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, A. Boudewijns Valkenswaard (C2110387)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, A. Boudewijns Valkenswaard (C2110387)"@nl ;
+  schema:text "...uitbreiding/wijziging van een varkens- en rundveehouderij gelegen aan de Grensweg 32, 5556 VH te <b>Valkenswaard</b> in de gemeente <b>Valkenswaard</b>. De vergunning artikel 19d is verleend voor onbepaalde tijd. Ten aanzien van het ontwerpbesluit zijn..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635364308972866027.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/26005556VH>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556VH" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2600Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/26005556VH> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2605551AJ>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551AJ" ;
+.
+<http://voorbeeld.nl/bekendmakingen/260Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2605551AJ> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2640>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2640Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, J.C.J. Willems Valkenswaard (C2101504)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, J.C.J. Willems Valkenswaard (C2101504)"@nl ;
+  schema:text "...aanvraag voor een vergunning.Het project betreft een melkrundveehouderij, uitgevoerd op de Venbergseweg 29, 5551TJ te <b>Valkenswaard</b>.De ontwerpbeschikking en de bijbehorende stukken zijn vanaf 25 april 2014 tot en met 5 juni 2014 in te zien bij de Omgevingsdienst..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635340150352766253.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/26405551VA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5551VA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2640Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/26405551VA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2650>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2650Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, L.J.M. Kuijpers Valkenswaard (C2110375)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, L.J.M. Kuijpers Valkenswaard (C2110375)"@nl ;
+  schema:text "...Het project betreft een uitbreiding/wijziging van een varkenshouderij, uitgevoerd op Bekenweg 10 te <b>Valkenswaard</b> in de gemeente <b>Valkenswaard</b>.De ontwerpbeschikking en de bijbehorende stukken zijn vanaf 25 april 2014 tot en met 5 juni 2014 in..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635340148660881183.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/26505556XM>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556XM" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2650Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/26505556XM> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2660>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2660Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, Stal Opperheide Valkenswaard (C2092009)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, Stal Opperheide Valkenswaard (C2092009)"@nl ;
+  schema:text "...aanvraag voor een vergunning.Het project betreft de uitbreiding/wijziging van een veehouderij aan de Kluizerdijk 115 te <b>Valkenswaard</b>.Het ontwerpbesluit en de bijbehorende stukken zijn vanaf 25 april 2014 tot en met 5 juni 2014 in te zien bij de Omgevingsdienst..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635340130785713703.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/26605556XS>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556XS" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2660Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/26605556XS> ;
+.
+<http://voorbeeld.nl/bekendmakingen/270>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/270Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Buntgrasbeemd thv. nr 1"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Buntgrasbeemd thv. nr 1"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/buntgrasbeemd-thv-nr-1_51506.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2700>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2700Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, A. Boudewijns Valkenswaard (C2110387)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, A. Boudewijns Valkenswaard (C2110387)"@nl ;
+  schema:text "...uitbreiding/wijziging van een varkens- en rundveehouderij , uitgevoerd op de Grensweg 32, 5556 VH, <b>Valkenswaard</b> in de gemeente <b>Valkenswaard</b>.De ontwerpbeschikking en de bijbehorende stukken zijn vanaf 28 maart 2014 tot en met 8 mei 2014 in..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635315926583050215.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/27005556VH>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556VH" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2700Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/27005556VH> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2705551HA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551HA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/270Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2705551HA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2710>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2710Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, W.F.G. de Krom Valkenswaard (C2089759)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, W.F.G. de Krom Valkenswaard (C2089759)"@nl ;
+  schema:text "...H. de Krom, Dorpsstraat 18, 5556 VL te <b>Valkenswaard</b> voor de uitbreiding/wijziging van een varkenshouderij...voor de locatie Dorpsstraat 18, 5556 VL te <b>Valkenswaard</b> in de gemeente <b>Valkenswaard</b>. De vergunning ex artikel 19d is verleend..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635315932387097439.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/27105556VL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556VL" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2710Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/27105556VL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/280>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/280Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Lariksbeemd  thv. nr. 11"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Lariksbeemd  thv. nr. 11"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/lariksbeemd-thv-nr-11_51511.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2800>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2800Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet 1998, W.F.G. de Krom Valkenswaard (C2089759)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet 1998, W.F.G. de Krom Valkenswaard (C2089759)"@nl ;
+  schema:text "...betreft een uitbreiding/wijziging van een varkenshouderij en een dierenpension, uitgevoerd op de Dorpsstraat 18, 5556 VL te <b>Valkenswaard</b>. Het ontwerpbesluit en de bijbehorende stukken zijn vanaf 17 januari 2014 tot en met 27 februari 2014 in te zien bij de..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635255485810150290.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/28005556VL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556VL" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2800Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/28005556VL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2805551HC>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551HC" ;
+.
+<http://voorbeeld.nl/bekendmakingen/280Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2805551HC> ;
+.
+<http://voorbeeld.nl/bekendmakingen/290>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/290Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Victordal thv. nr. 35"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Victordal thv. nr. 35"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/victordal-thv-nr-35_51517.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2905551CP>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551CP" ;
+.
+<http://voorbeeld.nl/bekendmakingen/290Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/2905551CP> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2930>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2930Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, Kuijpers Valkenswaard (C2063937)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, Kuijpers Valkenswaard (C2063937)"@nl ;
+  schema:text "...kenmerk: C2063937/ 3451237) aan J. Kuijpers, Bekenweg 20 te <b>Valkenswaard</b>, voor de uitbreiding/wijziging van een veehouderijbedrijf aan de Bekenweg 20, 5556 XM te <b>Valkenswaard</b>. De vergunning is verleend voor onbepaalde tijd.Ten aanzien..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635120690210125986.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/29305556XM>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556XM" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2930Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/29305556XM> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2940>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2940Noord-Brabant> ;
+  schema:description "Kennisgeving Verordening stikstof en Natura2000NoordBrabant, Mts. v.d. Boomen Valkenswaard (C2063178)"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Kennisgeving Verordening stikstof en Natura2000NoordBrabant, Mts. v.d. Boomen Valkenswaard (C2063178)"@nl ;
+  schema:text "...Maatschap v.d. Boomen, Klein Borkel 27, 5556 XK te <b>Valkenswaard</b>, voor het uitbreiden/wijzigen van een rundvee- en pluimveehouderij aan de Klein Borkel 27, 5556 XK te <b>Valkenswaard</b>.Het salderingsverzoek, het besluit en de bijbehorende..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/meldingen/635112908942444224.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/29405556XK>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556XK" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2940Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/29405556XK> ;
+.
+<http://voorbeeld.nl/bekendmakingen/2990>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/2990Noord-Brabant> ;
+  schema:description "Kennisgeving Natuurbeschermingswet, Kuijpers Valkenswaard (C2063937)"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "Kennisgeving Natuurbeschermingswet, Kuijpers Valkenswaard (C2063937)"@nl ;
+  schema:text "...vergunning.Het project betreft de uitbreiding/wijziging van een veehouderijbedrijf, uitgevoerd op de Bekenweg 20, 5556 XM te <b>Valkenswaard</b>.Het ontwerpbesluit en de bijbehorende stukken zijn vanaf 7 juni 2013 tot en met 18 juli 2013 in te zien in het provinciehuis..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635058655578900742.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/29905556XM>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556XM" ;
+.
+<http://voorbeeld.nl/bekendmakingen/2990Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/29905556XM> ;
+.
+<http://voorbeeld.nl/bekendmakingen/300>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/300Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - achterzijde van Hoefsmidwei 8"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "achterzijde van Hoefsmidwei 8"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/achterzijde-van-hoefsmidwei-8_51518.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3005551PL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551PL" ;
+.
+<http://voorbeeld.nl/bekendmakingen/300Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/3005551PL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/310>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/310Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Cornelisdal 12"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Cornelisdal 12"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/cornelisdal-12_51520.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3105551EB>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551EB" ;
+.
+<http://voorbeeld.nl/bekendmakingen/310Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/3105551EB> ;
+.
+<http://voorbeeld.nl/bekendmakingen/320>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/320Valkenswaard> ;
+  schema:description "Omgevingsvergunning geweigerd - Molenstraat 60"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Molenstraat 60"@nl ;
+  schema:text "Burgemeester en wethouders van <b>Valkenswaard</b> maken op grond van art. 2.1, 2.10 en 2.12 Wabo en bekend dat zij in het kader van de Wet algemene bepalingen omgevingsrecht..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/molenstraat-60_51523.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3200>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/3200Noord-Brabant> ;
+  schema:description "Kennisgeving Verordening stikstof en Natura2000Noord Brabant, Mts. van Houts-Schampers Valkenswaard (C2048169)"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Kennisgeving Verordening stikstof en Natura2000Noord Brabant, Mts. van Houts-Schampers Valkenswaard (C2048169)"@nl ;
+  schema:text "...behoeve van maatschap Van Houts-Schampers, Peedijk 13, 5556 VG te <b>Valkenswaard</b>, voor het uitbreiden van een melkrundveehouderij, op de locatie Peedijk 13 te <b>Valkenswaard</b>.De melding, het besluit en de bijbehorende stukken liggen vanaf bekendmaking..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/politiek-en-bestuur/gedeputeerde-staten/bestuursinformatie/bekendmakingen/meldingen/634861439686872271.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/32005556VG>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556VG" ;
+  schema:streetAddress "13.0" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3200Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/32005556VG> ;
+.
+<http://voorbeeld.nl/bekendmakingen/3205554JR>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554JR" ;
+.
+<http://voorbeeld.nl/bekendmakingen/320Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/3205554JR> ;
+.
+<http://voorbeeld.nl/bekendmakingen/3230>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/3230Noord-Brabant> ;
+  schema:description "Kennisgeving Wabo, Cure Centrum Uitvoering Reinigingstaken Eindhoven Valkenswaard (C2076954)"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Kennisgeving Wabo, Cure Centrum Uitvoering Reinigingstaken Eindhoven Valkenswaard (C2076954)"@nl ;
+  schema:text "...een bandenontvelger op de milieustraat aan De Vest 15 te <b>Valkenswaard</b>.De beschikking en de bijbehorende stukken zijn vanaf 15...2012 tot en met 27 oktober 2012 in te zien bij de gemeente <b>Valkenswaard</b>. Voor locatie, tijdstippen en dagen waarop u de stukken..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/politiek-en-bestuur/gedeputeerde-staten/bestuursinformatie/bekendmakingen/omgevingsvergunning/634824463003337381.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/32305555XL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5555XL" ;
+  schema:streetAddress "15.0" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3230Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/32305555XL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/3240>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/3240Noord-Brabant> ;
+  schema:description "Kennisgeving verlenging reguliere procedure Wabo, Cure Centrum Uitvoering Reinigingstaken Eindhoven Valkenswaard (C2076954)"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Kennisgeving verlenging reguliere procedure Wabo, Cure Centrum Uitvoering Reinigingstaken Eindhoven Valkenswaard (C2076954)"@nl ;
+  schema:text "...Het project betreft het in werking nemen van een rollpacker en een bandenontvelger op de milieustraat aan De Vest 15 te <b>Valkenswaard</b>.Aan deze procedure is het kenmerk C2076954 gekoppeld. U dient bij correspondentie dit kenmerk te vermelden.'s-Hertogenbosch..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/politiek-en-bestuur/gedeputeerde-staten/bestuursinformatie/bekendmakingen/omgevingsvergunning/634777746580859726.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/32405555XL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5555XL" ;
+  schema:streetAddress "15.0" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3240Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/32405555XL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/3250>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/3250Noord-Brabant> ;
+  schema:description "Kennisgeving Verordening stikstof en Natura2000Noord Brabant, Kuijpers Valkenswaard (C2063804)"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Kennisgeving Verordening stikstof en Natura2000Noord Brabant, Kuijpers Valkenswaard (C2063804)"@nl ;
+  schema:text "...Noord-Brabant van de heer J. Kuijpers, Bekenweg 20, 5556 XM te <b>Valkenswaard</b>, voor het uitbreiden/wijzigen van een melkvee- en vleesvarkenshouderij aan de Bekenweg 20 te <b>Valkenswaard</b>, voor kennisgeving hebben aangenomen.De melding, het besluit..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/politiek-en-bestuur/gedeputeerde-staten/bestuursinformatie/bekendmakingen/meldingen/634777689858984726.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/32505556XM>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556XM" ;
+  schema:streetAddress "20.0" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3250Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/32505556XM> ;
+.
+<http://voorbeeld.nl/bekendmakingen/3260>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/3260Noord-Brabant> ;
+  schema:description "Kennisgeving aanvraag reguliere procedure Wabo, Cure Centrum Uitvoering Reinigingstaken Eindhoven Valkenswaard (C2076954)"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Kennisgeving aanvraag reguliere procedure Wabo, Cure Centrum Uitvoering Reinigingstaken Eindhoven Valkenswaard (C2076954)"@nl ;
+  schema:text "...De aanvraag betreft het in werking nemen van een rollpacker en een bandenontvelger op de milieustraat aan De Vest 15 te <b>Valkenswaard</b>.Ingediende aanvraag ligt niet ter inzage en staat op dit moment niet open voor bezwaar en beroep.'s Hertogenbosch..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/politiek-en-bestuur/gedeputeerde-staten/bestuursinformatie/bekendmakingen/omgevingsvergunning/634777745613359726.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/32605555XL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5555XL" ;
+  schema:streetAddress "15.0" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3260Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/32605555XL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/330>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/330Valkenswaard> ;
+  schema:description "Ingekomen meldingen brandveilig gebruik - Oranje Nassaustraat 4-6"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Oranje Nassaustraat 4-6"@nl ;
+  schema:text "Het college van burgemeester en wethouders van de gemeente <b>Valkenswaard</b> maakt bekend dat op grond van paragraaf 1.7 van het Bouwbesluit 2012 de navolgende melding is ingediend. Nummer:&nbsp;MGB..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/oranje-nassaustraat-4-6_51527.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3305554AG>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554AG" ;
+.
+<http://voorbeeld.nl/bekendmakingen/330Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/3305554AG> ;
+.
+<http://voorbeeld.nl/bekendmakingen/3320>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/3320Noord-Brabant> ;
+  schema:description "Kennisgeving Verordening stikstof en Natura2000Noord Brabant, Tassche Melkvee VOF Valkenswaard (C2066244 en C2076617)"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Kennisgeving Verordening stikstof en Natura2000Noord Brabant, Tassche Melkvee VOF Valkenswaard (C2066244 en C2076617)"@nl ;
+  schema:text "...melding betreft de uitbreiding/wijziging van een bestaande rundveehouderij aan de Abdijweg 30 te Borkel en Schaft (gemeente <b>Valkenswaard</b>). De melding, het besluit en de bijbehorende stukken liggen vanaf 1 juni 2012 zes weken ter inzage in het provinciehuis..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/politiek-en-bestuur/gedeputeerde-staten/bestuursinformatie/bekendmakingen/meldingen/634739893322072145.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/33205556VE>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556VE" ;
+  schema:streetAddress "30.0" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3320Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/33205556VE> ;
+.
+<http://voorbeeld.nl/bekendmakingen/3330>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/3330Noord-Brabant> ;
+  schema:description "Kennisgeving \"Verordening stikstof en Natura 2000 Noord-Brabant\", G.G.M. Schellekens Valkenswaard"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Kennisgeving \"Verordening stikstof en Natura 2000 Noord-Brabant\", G.G.M. Schellekens Valkenswaard"@nl ;
+  schema:text "...behoeve van G.G.M. Schellekens, Wolfsven 28, 5556 VD te <b>Valkenswaard</b>, voor het uitbreiden van een melkrundveehouderij aan de Wolfsven 28 te <b>Valkenswaard</b> (gem. <b>Valkenswaard</b>).De melding, het besluit en de bijbehorende stukken liggen..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/politiek-en-bestuur/gedeputeerde-staten/bestuursinformatie/bekendmakingen/meldingen/634540352954041800.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/33305556VD>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556VD" ;
+  schema:streetAddress "28.0" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3330Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/33305556VD> ;
+.
+<http://voorbeeld.nl/bekendmakingen/3340>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/3340Eersel> ;
+  schema:description "Omgevingsvergunning - Wk-32 2011 Omgevingsvergunning"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Wk-32 2011 Omgevingsvergunning"@nl ;
+  schema:text "...vakwerkmast aan de Schadewijkstraat in Eersel, achter het bosje bij de picknikplaats aan de rotonde met de Provincialeweg Eersel - <b>Valkenswaard</b>. Betreffende vergunning is verzonden 3 augustus 2011. Het betreft een nieuw besluit op de aanvraag van KPN B.V., naar..."@nl ;
+  schema:urlTemplate "http://www.eersel.nl/index.php?simaction=content&mediumid=1&pagid=18&rubriek_id=3567&stukid=34717" ;
+.
+<http://voorbeeld.nl/bekendmakingen/33405521>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Eersel" ;
+  schema:postalCode "5521" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3340Eersel>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/33405521> ;
+.
+<http://voorbeeld.nl/bekendmakingen/340>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/340Valkenswaard> ;
+  schema:description "Meldingen asbestverwijdering - sloop - Brouwerijplein 84"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Brouwerijplein 84"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/brouwerijplein-84_51533.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3405554AG>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554AG" ;
+.
+<http://voorbeeld.nl/bekendmakingen/340Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/3405554AG> ;
+.
+<http://voorbeeld.nl/bekendmakingen/350>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/350Valkenswaard> ;
+  schema:description "Meldingen asbestverwijdering - sloop - Markt 14"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Markt 14"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/markt-14_51535.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3505554CC>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554CC" ;
+.
+<http://voorbeeld.nl/bekendmakingen/350Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/3505554CC> ;
+.
+<http://voorbeeld.nl/bekendmakingen/360>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/360Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Maastrichterweg 73"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Maastrichterweg 73"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/maastrichterweg-73_51112.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3605554GG>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554GG" ;
+.
+<http://voorbeeld.nl/bekendmakingen/360Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/3605554GG> ;
+.
+<http://voorbeeld.nl/bekendmakingen/370>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/370Valkenswaard> ;
+  schema:description "Ingetrokken bouwvergunningen - Maastrichterweg 134A"@nl ;
+  schema:genre "bouwvergunning"@nl ;
+  schema:headline "Maastrichterweg 134A"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/maastrichterweg-134a_51128.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3705556VA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556VA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/370Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/3705556VA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/380>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/380Valkenswaard> ;
+  schema:description "Omgevingsvergunning ontwerpbeschikking - Elcomapark 129 tot 169"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Elcomapark 129 tot 169"@nl ;
+  schema:text "...voorbereidingsprocedure Burgemeester en wethouders van <b>Valkenswaard</b> maken op grond van art. 2.1, 2.10...verzonden aan burgemeester en wethouders van <b>Valkenswaard</b>, Postbus 10100, 5550 GA <b>Valkenswaard</b>. In deze periode kunnen ook mondeling..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/elcomapark-129-tot-169_51262.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3805554HE>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554HE" ;
+.
+<http://voorbeeld.nl/bekendmakingen/380Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/3805554HE> ;
+.
+<http://voorbeeld.nl/bekendmakingen/390>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/390Noord-Brabant> ;
+  schema:description "Beschikking Wet bodembescherming, BK ingenieurs BV namens de Stichting Beheer Beukenhof te Valkenswaard"@nl ;
+  schema:genre "bodembeschermingsvergunning"@nl ;
+  schema:headline "Beschikking Wet bodembescherming, BK ingenieurs BV namens de Stichting Beheer Beukenhof te Valkenswaard"@nl ;
+  schema:text "...Omgevingsdienst Zuid-Oost Brabant is op 20 oktober 2015 door door BK ingenieurs BV namens de Stichting Beheer Beukenhof te <b>Valkenswaard</b> een melding ingediend ingevolge van artikel 28, lid 1 Wbb, met het voornemen de bodem te saneren op de locatie Hof 154..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/bodembeschermingsvergunning/635858538599505047.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/3905571CA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5571CA" ;
+  schema:streetAddress "154.0" ;
+.
+<http://voorbeeld.nl/bekendmakingen/390Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/3905571CA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/40>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/40Valkenswaard> ;
+  schema:description "Bestemmingsplan ter inzage - Bestemmingsplan ?Dommelkwartier? gedeeltelijk niet vastgesteld"@nl ;
+  schema:genre "bestemmingsplan"@nl ;
+  schema:headline "Bestemmingsplan ?Dommelkwartier? gedeeltelijk niet vastgesteld"@nl ;
+  schema:text "...BPdommelkwartier-ON04) Bekendmaking artikel 3.8 en 6.12 van de Wet ruimtelijke ordening. Burgemeester en wethouders van de gemeente <b>Valkenswaard</b> maken bekend dat met ingang van 31 december 2015 gedurende zes weken het op 17 december 2015 door de gemeenteraad gedeeltelijk..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/bestemmingsplan-dommelkwartier-gedeeltelijk-niet-vastgesteld_51574.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/405551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/405552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/405553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/405554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/405555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/405556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/40Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/405551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/405552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/405553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/405554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/405555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/405556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/420>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/420Noord-Brabant> ;
+  schema:description "KENNISGEVING NATUURBESCHERMINGSWET 1998, Maatschap Tegenbosch,  Peedijk 39, 5556 VG te Borkel en Schaft"@nl ;
+  schema:genre "natuurbeschermingsvergunning"@nl ;
+  schema:headline "KENNISGEVING NATUURBESCHERMINGSWET 1998, Maatschap Tegenbosch,  Peedijk 39, 5556 VG te Borkel en Schaft"@nl ;
+  schema:text "...uitbreiding/wijziging van een rundveehouderij, voor de locatie Peedijk 39, 5556 VG te Borkel en Schaft, in de gemeente <b>Valkenswaard</b>. De vergunning is verleend voor onbepaalde tijd. Ten aanzien van het ontwerpbesluit zijn geen zienswijzen naar voren gebracht..."@nl ;
+  schema:urlTemplate "http://www.brabant.nl/loket/bekendmakingen/natuurbeschermingsvergunning/635858765435114037.aspx" ;
+.
+<http://voorbeeld.nl/bekendmakingen/4205556VG>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Noord-Brabant" ;
+  schema:postalCode "5556VG" ;
+.
+<http://voorbeeld.nl/bekendmakingen/420Noord-Brabant>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/4205556VG> ;
+.
+<http://voorbeeld.nl/bekendmakingen/450>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/450Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Dorpsstraat 17"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Dorpsstraat 17"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/dorpsstraat-17_51271.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/4505556VL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556VL" ;
+.
+<http://voorbeeld.nl/bekendmakingen/450Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/4505556VL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/460>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/460Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Leenderweg 41"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Leenderweg 41"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/leenderweg-41_51274.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/4605554CK>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554CK" ;
+.
+<http://voorbeeld.nl/bekendmakingen/460Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/4605554CK> ;
+.
+<http://voorbeeld.nl/bekendmakingen/470>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/470Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Maastrichterweg 183"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Maastrichterweg 183"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/maastrichterweg-183_51116.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/4705556VB>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556VB" ;
+.
+<http://voorbeeld.nl/bekendmakingen/470Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/4705556VB> ;
+.
+<http://voorbeeld.nl/bekendmakingen/480>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/480Valkenswaard> ;
+  schema:description "Meldingen asbestverwijdering - sloop - Kluizerdijk ong. sectie K 232"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Kluizerdijk ong. sectie K 232"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/kluizerdijk-ong-sectie-k-232_51317.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/4805556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/480Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/4805556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/490>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/490Valkenswaard> ;
+  schema:description "Beschikking uitschrijving BRP - Beschikking uitschrijving BRP 16 december 2015"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Beschikking uitschrijving BRP 16 december 2015"@nl ;
+  schema:text "...maken. Het bezwaarschrift moet binnen de termijn van zes weken gemotiveerd worden ingediend bij het college van burgemeester en wethouders, Postbus 10100, 5550 GA <b>Valkenswaard</b>. De termijn gaat n dag na deze publicatie in."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/beschikking-uitschrijving-brp-16-december-2015_51259.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/4905551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/4905552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/4905553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/4905554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/4905555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/4905556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/490Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/4905551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/4905552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/4905553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/4905554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/4905555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/4905556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/50>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/50Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Kapellerpad ong. sectie E nr. 356"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Kapellerpad ong. sectie E nr. 356"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/kapellerpad-ong-sectie-e-nr-356_51454.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/500>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/500Valkenswaard> ;
+  schema:description "Voornemen uitschrijving BRP - Voornemen uitschrijving BRP 16 december 2015"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Voornemen uitschrijving BRP 16 december 2015"@nl ;
+  schema:text "Burgemeester en wethouders van <b>Valkenswaard</b> zijn voornemens om de bijhouding van adresgegevens...het Klantcontactcentrum van de gemeente <b>Valkenswaard</b>. Dit team is te bereiken via: kcc@<b>valkenswaard</b>.nl of via (040) 2083444. Als wij geen..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/voornemen-uitschrijving-brp-16-december-2015_51260.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5005551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5005552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5005553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5005554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5005555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5005556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/500Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5005551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5005552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5005553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5005554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5005555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5005556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/505556WE>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556WE" ;
+.
+<http://voorbeeld.nl/bekendmakingen/50Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/505556WE> ;
+.
+<http://voorbeeld.nl/bekendmakingen/510>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/510Valkenswaard> ;
+  schema:description "Verlenging beslistermijn omgevingsvergunning - Irislaan 34"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Irislaan 34"@nl ;
+  schema:text "Burgemeester en wethouders van <b>Valkenswaard</b> maken bekend dat zij in het kader van de Wet algemene bepalingen omgevingsrecht hebben besloten voor de volgende aanvraag de beslistermijn..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/irislaan-34_51263.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5105551AJ>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551AJ" ;
+.
+<http://voorbeeld.nl/bekendmakingen/510Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5105551AJ> ;
+.
+<http://voorbeeld.nl/bekendmakingen/520>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/520Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Stadselaan 28"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Stadselaan 28"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/stadselaan-28_51266.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5205555AL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555AL" ;
+.
+<http://voorbeeld.nl/bekendmakingen/520Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5205555AL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/530>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/530Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Zeelberg 18"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Zeelberg 18"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/zeelberg-18_51269.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5305555XE>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555XE" ;
+.
+<http://voorbeeld.nl/bekendmakingen/530Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5305555XE> ;
+.
+<http://voorbeeld.nl/bekendmakingen/540>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/540Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Dollarhof 39"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Dollarhof 39"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/dollarhof-39_51280.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5405551DA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551DA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/540Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5405551DA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/550>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/550Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Brugseheide 6"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Brugseheide 6"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/brugseheide-6_51281.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5505556XW>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556XW" ;
+.
+<http://voorbeeld.nl/bekendmakingen/550Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5505556XW> ;
+.
+<http://voorbeeld.nl/bekendmakingen/560>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/560Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - De Bochten 10"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "De Bochten 10"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/de-bochten-10_51284.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5605551ZH>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551ZH" ;
+.
+<http://voorbeeld.nl/bekendmakingen/560Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5605551ZH> ;
+.
+<http://voorbeeld.nl/bekendmakingen/570>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/570Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Ketelbuterwei 3"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Ketelbuterwei 3"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/ketelbuterwei-3_51287.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5705551PJ>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551PJ" ;
+.
+<http://voorbeeld.nl/bekendmakingen/570Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5705551PJ> ;
+.
+<http://voorbeeld.nl/bekendmakingen/580>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/580Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Kantwerkerwei 18"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Kantwerkerwei 18"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/kantwerkerwei-18_51290.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5805551RA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551RA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/580Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5805551RA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/590>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/590Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - De Kreijenbeek 110"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "De Kreijenbeek 110"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/de-kreijenbeek-110_51292.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/5905553BN>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553BN" ;
+.
+<http://voorbeeld.nl/bekendmakingen/590Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/5905553BN> ;
+.
+<http://voorbeeld.nl/bekendmakingen/60>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/60Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Hoppad 3"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Hoppad 3"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/hoppad-3_51457.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/600>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/600Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Maastrichterweg 71"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Maastrichterweg 71"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/maastrichterweg-71_51293.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6005554GG>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554GG" ;
+.
+<http://voorbeeld.nl/bekendmakingen/600Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6005554GG> ;
+.
+<http://voorbeeld.nl/bekendmakingen/605552EV>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552EV" ;
+.
+<http://voorbeeld.nl/bekendmakingen/60Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/605552EV> ;
+.
+<http://voorbeeld.nl/bekendmakingen/610>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/610Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Berkenstraat 6"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Berkenstraat 6"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/berkenstraat-6_51296.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6105553EK>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553EK" ;
+.
+<http://voorbeeld.nl/bekendmakingen/610Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6105553EK> ;
+.
+<http://voorbeeld.nl/bekendmakingen/620>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/620Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Hoppenbrouwers 15"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Hoppenbrouwers 15"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/hoppenbrouwers-15_51299.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6205552SB>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552SB" ;
+.
+<http://voorbeeld.nl/bekendmakingen/620Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6205552SB> ;
+.
+<http://voorbeeld.nl/bekendmakingen/630>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/630Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - naast Dommelstraat 21"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "naast Dommelstraat 21"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/naast-dommelstraat-21_51302.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6305551TA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551TA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/630Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6305551TA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/640>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/640Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Korfvlechterwei t.h.v. nr. 50"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Korfvlechterwei t.h.v. nr. 50"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/korfvlechterwei-thv-nr-50_51304.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6405551SV>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551SV" ;
+.
+<http://voorbeeld.nl/bekendmakingen/640Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6405551SV> ;
+.
+<http://voorbeeld.nl/bekendmakingen/650>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/650Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Korfvlechterwei t.h.v. nr. 16"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Korfvlechterwei t.h.v. nr. 16"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/korfvlechterwei-thv-nr-16_51307.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6505551SW>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551SW" ;
+.
+<http://voorbeeld.nl/bekendmakingen/650Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6505551SW> ;
+.
+<http://voorbeeld.nl/bekendmakingen/660>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/660Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Hoefsmidwei t.h.v. nr. 31"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Hoefsmidwei t.h.v. nr. 31"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/hoefsmidwei-thv-nr-31_51310.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6605551PL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551PL" ;
+.
+<http://voorbeeld.nl/bekendmakingen/660Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6605551PL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/670>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/670Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Strodekkerwei achter nr. 2"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Strodekkerwei achter nr. 2"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/strodekkerwei-achter-nr-2_51313.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6705551SR>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551SR" ;
+.
+<http://voorbeeld.nl/bekendmakingen/670Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6705551SR> ;
+.
+<http://voorbeeld.nl/bekendmakingen/680>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/680Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Tinnegieterwei t.h.v. nr. 19"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Tinnegieterwei t.h.v. nr. 19"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/tinnegieterwei-thv-nr-19_51316.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6805551SL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551SL" ;
+.
+<http://voorbeeld.nl/bekendmakingen/680Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6805551SL> ;
+.
+<http://voorbeeld.nl/bekendmakingen/690>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/690Valkenswaard> ;
+  schema:description "Beleidsregels - Ontwerp Nota Ruimtelijke Kwaliteit"@nl ;
+  schema:genre "overig"@nl ;
+  schema:headline "Ontwerp Nota Ruimtelijke Kwaliteit"@nl ;
+  schema:text "...de informatieschermen in de hal van het gemeentehuis van <b>Valkenswaard</b>, de website www.ruimtelijkeplannenvalkenswaard.nl...Zie voor meer informatie over de procedure&nbsp;www.<b>valkenswaard</b>.nl. Kies ?actueel? en dan ?bekendmakingen..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/ontwerp-nota-ruimtelijke-kwaliteit_51094.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6905551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6905552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6905553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6905554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6905555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/6905556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/690Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6905551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6905552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6905553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6905554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6905555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/6905556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/70>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/70Valkenswaard> ;
+  schema:description "Ontwerpwijzigingsplan - Ontwerp Wijzigingsplan 'Amundsenstraat 2-36"@nl ;
+  schema:genre "bestemmingsplan"@nl ;
+  schema:headline "Ontwerp Wijzigingsplan 'Amundsenstraat 2-36"@nl ;
+  schema:text "...WPamundsenstraat2-ON01 Burgemeester en wethouders van <b>Valkenswaard</b> maken bekend, dat een ontwerp wijzigingsplan...2-36, kadastraal bekend gemeente <b>Valkenswaard</b>, sectie D, nummers 46666, is een...in de hal van het gemeentehuis van <b>Valkenswaard</b> aan de Hofnar 15, de website www..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/ontwerp-wijzigingsplan-amundsenstraat-2-36_51449.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/700>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/700Valkenswaard> ;
+  schema:description "Voorontwerpbestemmingsplan - Voorontwerpbestemmingsplan Borkel en Schaft"@nl ;
+  schema:genre "bestemmingsplan"@nl ;
+  schema:headline "Voorontwerpbestemmingsplan Borkel en Schaft"@nl ;
+  schema:text "...BPborkelenschaft-VO01) De gemeente <b>Valkenswaard</b> is haar bestemmingsplannen aan het...in het buitengebied van de gemeente <b>Valkenswaard</b> liggen. De begrenzing van het plangebied...in de hal van het gemeentehuis van <b>Valkenswaard</b> aan De Hofnar 15, de website www..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/voorontwerpbestemmingsplan-borkel-en-schaft_51097.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7005551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7005552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7005553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7005554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7005555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7005556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/700Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7005551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7005552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7005553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7005554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7005555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7005556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/705551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/705552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/705553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/705554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/705555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/705556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/70Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/705551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/705552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/705553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/705554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/705555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/705556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/710>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/710Valkenswaard> ;
+  schema:description "Meldingen asbestverwijdering - sloop - Amundsenstraat 2 t/m 40"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Amundsenstraat 2 t/m 40"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/amundsenstraat-2-tm-40_51131.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7105554PA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554PA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/710Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7105554PA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/720>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/720Valkenswaard> ;
+  schema:description "Meldingen asbestverwijdering - sloop - Deelshurk 14"@nl ;
+  schema:genre "meldingen"@nl ;
+  schema:headline "Deelshurk 14"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/deelshurk-14_51133.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7205554TX>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554TX" ;
+.
+<http://voorbeeld.nl/bekendmakingen/720Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7205554TX> ;
+.
+<http://voorbeeld.nl/bekendmakingen/740>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/740Valkenswaard> ;
+  schema:description "Mededelingen - Controleprotocol ?Samenwerking A2 gemeenten?"@nl ;
+  schema:genre "mededelingen"@nl ;
+  schema:headline "Controleprotocol ?Samenwerking A2 gemeenten?"@nl ;
+  schema:text "...het jaar 2015 en ligt met ingang van vandaag gedurende 12 weken kosteloos ter inzage bij de publieksbalie in het gemeentehuis van Heeze-Leende, Cranendonck en <b>Valkenswaard</b> dan wel is op het gemeentehuis digitaal in te zien."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/controleprotocol-samenwerking-a2-gemeenten_51091.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7405551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7405552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7405553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7405554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7405555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7405556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/740Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7405551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7405552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7405553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7405554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7405555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7405556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/760>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/760Valkenswaard> ;
+  schema:description "Verlenging beslistermijn omgevingsvergunning - Le sage ten Broekstraat 49"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Le sage ten Broekstraat 49"@nl ;
+  schema:text "Burgemeester en wethouders van <b>Valkenswaard</b> maken bekend dat zij in het kader van de Wet algemene bepalingen omgevingsrecht hebben besloten voor de volgende aanvraag de beslistermijn..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/le-sage-ten-broekstraat-49_51098.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7605554SW>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554SW" ;
+.
+<http://voorbeeld.nl/bekendmakingen/760Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7605554SW> ;
+.
+<http://voorbeeld.nl/bekendmakingen/770>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/770Valkenswaard> ;
+  schema:description "Verlenging beslistermijn omgevingsvergunning - Eindhovenseweg 37"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Eindhovenseweg 37"@nl ;
+  schema:text "Burgemeester en wethouders van <b>Valkenswaard</b> maken bekend dat zij in het kader van de Wet algemene bepalingen omgevingsrecht hebben besloten voor de volgende aanvraag de beslistermijn..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/eindhovenseweg-37_51101.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7705554AA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554AA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/770Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7705554AA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/780>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/780Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Binnenveld 16"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Binnenveld 16"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/binnenveld-16_51103.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7805552LG>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552LG" ;
+.
+<http://voorbeeld.nl/bekendmakingen/780Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7805552LG> ;
+.
+<http://voorbeeld.nl/bekendmakingen/790>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/790Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Bosstraat 2G"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Bosstraat 2G"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/bosstraat-2g_51104.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/7905552JD>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552JD" ;
+.
+<http://voorbeeld.nl/bekendmakingen/790Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/7905552JD> ;
+.
+<http://voorbeeld.nl/bekendmakingen/80>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/80Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Koolzaadbeemd thv. nr. 10"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Koolzaadbeemd thv. nr. 10"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/koolzaadbeemd-thv-nr-10_51514.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/800>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/800Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Eindhovenseweg 145"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Eindhovenseweg 145"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/eindhovenseweg-145_51106.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/8005552AB>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552AB" ;
+.
+<http://voorbeeld.nl/bekendmakingen/800Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/8005552AB> ;
+.
+<http://voorbeeld.nl/bekendmakingen/805551HD>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551HD" ;
+.
+<http://voorbeeld.nl/bekendmakingen/80Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/805551HD> ;
+.
+<http://voorbeeld.nl/bekendmakingen/810>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/810Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Dragonder 48/50"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Dragonder 48/50"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/dragonder-4850_51109.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/8105555XZ>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555XZ" ;
+.
+<http://voorbeeld.nl/bekendmakingen/810Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/8105555XZ> ;
+.
+<http://voorbeeld.nl/bekendmakingen/820>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/820Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Barentszstraat 27"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Barentszstraat 27"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/barentszstraat-27_51110.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/8205554PN>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554PN" ;
+.
+<http://voorbeeld.nl/bekendmakingen/820Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/8205554PN> ;
+.
+<http://voorbeeld.nl/bekendmakingen/830>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/830Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Stadselaan 7"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Stadselaan 7"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/stadselaan-7_51118.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/8305555AK>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555AK" ;
+.
+<http://voorbeeld.nl/bekendmakingen/830Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/8305555AK> ;
+.
+<http://voorbeeld.nl/bekendmakingen/840>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/840Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Abt van den Eijndenstraat 2"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Abt van den Eijndenstraat 2"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/abt-van-den-eijndenstraat-2_51121.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/8405555AK>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555AK" ;
+.
+<http://voorbeeld.nl/bekendmakingen/840Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/8405555AK> ;
+.
+<http://voorbeeld.nl/bekendmakingen/850>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/850Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - Klappermanstraat 17"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Klappermanstraat 17"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/klappermanstraat-17_51124.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/8505554EM>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554EM" ;
+.
+<http://voorbeeld.nl/bekendmakingen/850Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/8505554EM> ;
+.
+<http://voorbeeld.nl/bekendmakingen/860>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/860Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - De Vest 46"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "De Vest 46"@nl ;
+  schema:text "...tevens digitaal in te zien op de website van de gemeente <b>Valkenswaard</b>. Degene wiens belang rechtstreeks is betrokken door het...van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Indien u bezwaar instelt kan het besluit nog gewoon worden..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/de-vest-46_51125.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/8605555XP>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555XP" ;
+.
+<http://voorbeeld.nl/bekendmakingen/860Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/8605555XP> ;
+.
+<http://voorbeeld.nl/bekendmakingen/870>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/870Valkenswaard> ;
+  schema:description "Omgevingsvergunning verleend - dr. Schaepmanstraat nabij nr. 37"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "dr. Schaepmanstraat nabij nr. 37"@nl ;
+  schema:text "...kunnen belanghebbenden een bezwaarschrift indienen bij het college van burgemeester en wethouders (postbus 10.100, 5550 GA <b>Valkenswaard</b>). Na afloop van deze termijn mogen de werkzaamheden worden gestart, tenzij een verzoek tot schorsing of een voorlopige..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/dr-schaepmanstraat-nabij-nr-37_51127.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/8705554SH>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554SH" ;
+.
+<http://voorbeeld.nl/bekendmakingen/870Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/8705554SH> ;
+.
+<http://voorbeeld.nl/bekendmakingen/900>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/900Valkenswaard> ;
+  schema:description "Voorontwerpbestemmingsplan - Voorontwerpbestemmingsplan ?Lage Heide, oost?"@nl ;
+  schema:genre "bestemmingsplan"@nl ;
+  schema:headline "Voorontwerpbestemmingsplan ?Lage Heide, oost?"@nl ;
+  schema:text "...Dommel, ten zuidwesten van de kern van <b>Valkenswaard</b>. Dit bestemmingsplan heeft als...in de hal van het gemeentehuis van <b>Valkenswaard</b>, de websites www.ruimtelijkeplannenvalkenswaard...informatie over de procedure www.<b>valkenswaard</b>.nl. Kies ?actueel? en dan..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/voorontwerpbestemmingsplan-lage-heide-oost_50930.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9005551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9005552>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5552" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9005553>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5553" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9005554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9005555>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5555" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9005556>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556" ;
+.
+<http://voorbeeld.nl/bekendmakingen/900Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9005551> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9005552> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9005553> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9005554> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9005555> ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9005556> ;
+.
+<http://voorbeeld.nl/bekendmakingen/910>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/910Valkenswaard> ;
+  schema:description "Verlenging beslistermijn omgevingsvergunning - Crocuslaan 30"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Crocuslaan 30"@nl ;
+  schema:text "Burgemeester en wethouders van <b>Valkenswaard</b> maken bekend dat zij in het kader van de Wet algemene bepalingen omgevingsrecht hebben besloten voor de volgende aanvraag de beslistermijn..."@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/crocuslaan-30_50932.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9105551AH>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551AH" ;
+.
+<http://voorbeeld.nl/bekendmakingen/910Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9105551AH> ;
+.
+<http://voorbeeld.nl/bekendmakingen/920>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/920Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Stationskwartier 6 + 8 (rectificatie)"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Stationskwartier 6 + 8 (rectificatie)"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/stationskwartier-6-8-rectificatie_50933.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9205554CK>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554CK" ;
+.
+<http://voorbeeld.nl/bekendmakingen/920Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9205554CK> ;
+.
+<http://voorbeeld.nl/bekendmakingen/930>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/930Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Heistraat ong. sectie F 4330 en F 3935"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Heistraat ong. sectie F 4330 en F 3935"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/heistraat-ong-sectie-f-4330-en-f-3935_50936.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9305554>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554" ;
+.
+<http://voorbeeld.nl/bekendmakingen/930Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9305554> ;
+.
+<http://voorbeeld.nl/bekendmakingen/940>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/940Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Eindhovenseweg 37"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Eindhovenseweg 37"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/eindhovenseweg-37_50939.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9405554AA>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5554AA" ;
+.
+<http://voorbeeld.nl/bekendmakingen/940Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9405554AA> ;
+.
+<http://voorbeeld.nl/bekendmakingen/950>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/950Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Brugseheide 6"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Brugseheide 6"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/brugseheide-6_50942.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9505556XW>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5556XW" ;
+.
+<http://voorbeeld.nl/bekendmakingen/950Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9505556XW> ;
+.
+<http://voorbeeld.nl/bekendmakingen/960>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/960Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Dommelstraat sectie G 5049"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Dommelstraat sectie G 5049"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/dommelstraat-sectie-g-5049_50944.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9605551>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551" ;
+.
+<http://voorbeeld.nl/bekendmakingen/960Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9605551> ;
+.
+<http://voorbeeld.nl/bekendmakingen/970>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/970Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Kofvlechterwei thv 50"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Kofvlechterwei thv 50"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/kofvlechterwei-thv-50_50945.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9705551SV>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551SV" ;
+.
+<http://voorbeeld.nl/bekendmakingen/970Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9705551SV> ;
+.
+<http://voorbeeld.nl/bekendmakingen/980>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/980Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Korfvlechterwei thv 16"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Korfvlechterwei thv 16"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/korfvlechterwei-thv-16_50948.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9805551SW>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551SW" ;
+.
+<http://voorbeeld.nl/bekendmakingen/980Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9805551SW> ;
+.
+<http://voorbeeld.nl/bekendmakingen/990>
+  rdf:type schema:Report ;
+  schema:contentLocation <http://voorbeeld.nl/bekendmakingen/990Valkenswaard> ;
+  schema:description "Omgevingsvergunning aangevraagd - Hoefsmidwei thv 31"@nl ;
+  schema:genre "omgevingsvergunning"@nl ;
+  schema:headline "Hoefsmidwei thv 31"@nl ;
+  schema:urlTemplate "http://www.valkenswaard.nl/internet/bekendmakingen_3361/item/hoefsmidwei-thv-31_50951.html" ;
+.
+<http://voorbeeld.nl/bekendmakingen/9905551PL>
+  rdf:type schema:PostalAddress ;
+  schema:addressLocality "Valkenswaard" ;
+  schema:postalCode "5551PL" ;
+.
+<http://voorbeeld.nl/bekendmakingen/990Valkenswaard>
+  rdf:type schema:Place ;
+  schema:address <http://voorbeeld.nl/bekendmakingen/9905551PL> ;
+.
+vb:BekendmakingenDataset
+  rdf:type schema:Dataset ;
+  dcterms:created "Lieke Verhelst - Linked Data Factory" ;
+  dcterms:source "<https://zoek.officielebekendmakingen.nl/>" ;
+  rdfs:comment "Dit dataset is gemaakt tijdens Testbed Spatial Data on the Web (Geonovum) voor onderzoeksdoeleinden. Behalve de omzetting naar RDF en het gebruik van schama.org is er geen wijziging in de data gemaakt. " ;
+  rdfs:comment "Dit dataset is gemaakt tijdens Testbed Spatial Data on the Web (Geonovum) voor onderzoeksdoeleinden. Behalve de omzetting naar RDF en het gebruik van schema.org is er geen wijziging in de data gemaakt. " ;
+  rdfs:label "Bekendmakingen dataset"^^xsd:string ;
+.
